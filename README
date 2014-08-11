@@ -1,4 +1,6 @@
 This is a mirror of http://cscope.sourceforge.net/cscope_maps.vim
 
+I modify the code in order to compatible my team's IDE.
+
 It magically assigns awesome cscope maps to your vim sessions turning your
 VIM session into a superior IDE :)
